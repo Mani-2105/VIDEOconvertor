@@ -5,11 +5,11 @@ START_TEXT = "Send me any file to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
-CHANNEL_LINK = "https://t.me/DroneBots"
+CHANNEL_LINK = "https://t.me/Team_CineLens"
 
-SUPPORT_LINK = "https://t.me/TeamDrone"
+SUPPORT_LINK = "https://t.me/Team_CineLens"
 
-info_text = "This bot is developed by @MaheshChauhan\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.4"   
+info_text = "This bot is developed by @Team_CineLens\n\nWritten in python library TELETHON.\n\nBot by : @Team_CineLens\nSupport : @Team_CineLens\n\nV1.4"   
 
 help_text = """**v1.4**
 
